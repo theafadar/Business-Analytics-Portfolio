@@ -44,9 +44,6 @@ Master of Science in Technology Project Management, 2023
 
 ---
 
-
----
-
 ## Contact
 
 - LinkedIn: [Your LinkedIn Profile](link)
