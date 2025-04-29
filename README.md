@@ -1,8 +1,9 @@
 # Anas Afadar - Business Analytics Student
 
 ## Table of Contents
-[About](#about) | [Portfolio Projects](#portfolio-projects) | [Python Projects](#python-projects) | [Education](#education)
-- [Contact](#contact)
+[About](#about) | [Portfolio Projects](#portfolio-projects) | [Python Projects](#python-projects) | [Education](#education) | [Contact](#contact)
+
+---
 
 ## About
 
@@ -22,10 +23,10 @@ To know more about me, feel free to view my [LinkedIn](https://www.linkedin.com/
 
 | Project Title | Functions/Excercises Applied | Code/File |
 |:---|:---|:---|
-| Customer Segmentation Using Clustering and SVM | Clustering, SVM Classification, Data Preprocessing | [Link](link) |
-| Predicting Housing Prices Using Regression Analysis | Regression Modeling, EDA, Feature Engineering | [Link](link) |
-| Sentiment Trend Analysis Over Time | Time Series Forecasting, Sentiment Analysis, NLP | [Link](link) |
-| Classifying Fashion Items (Fashion MNIST) | Neural Networks, Deep Learning, Image Classification | [Link](link) |
+| Customer Segmentation Using Clustering and SVM | Clustering, SVM Classification, Data Preprocessing | [Link](https://github.com/theafadar/Business-Analytics-Portfolio/blob/main/BZAN6355_HW5_Full_Simplified_Updated.ipynb) |
+| Predicting Housing Prices Using Regression Analysis | Regression Modeling, EDA, Feature Engineering | [Link](https://github.com/theafadar/Business-Analytics-Portfolio/blob/main/HW2-6635-final.ipynb) |
+| Sentiment Trend Analysis Over Time | Time Series Forecasting, Sentiment Analysis, NLP | [Link](https://github.com/theafadar/Business-Analytics-Portfolio/blob/main/TimeSeries_Sentiment_Updated.ipynb) |
+| Classifying Fashion Items (Fashion MNIST) | Neural Networks, Deep Learning, Image Classification | [Link](https://github.com/theafadar/Business-Analytics-Portfolio/blob/main/Zalando_Fashion_MNIST_Quick_Model.ipynb) |
 
 ---
 
