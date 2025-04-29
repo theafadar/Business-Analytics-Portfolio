@@ -8,7 +8,7 @@ As part of my learning journey, I am working on different projects that can show
 
 This portfolio aims to highlight some of the key steps and practices are important for data cleaning, visualization, storytelling, with some machine learning applications. 
 
-To know more about me, feel free to view my [LinkedIn]([https://www.linkedin.com/in/your-profile-link/](https://www.linkedin.com/in/anas-k-afadar/)) profile or my [resume] ([https://github.com/theafadar/Business-Analytics-Portfolio/blob/main/Anas%20Afadar%20-%20Bauer%20Resume.pdf]). 
+To know more about me, feel free to view my [LinkedIn]([https://www.linkedin.com/in/your-profile-link/](https://www.linkedin.com/in/anas-k-afadar/)) profile or my [resume]([https://github.com/theafadar/Business-Analytics-Portfolio/blob/main/Anas%20Afadar%20-%20Bauer%20Resume.pdf]). 
 
 ---
 
