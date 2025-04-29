@@ -27,7 +27,7 @@ To know more about me, feel free to view my [LinkedIn](https://www.linkedin.com/
 
 ### Python Projects
 
-| Project Title | Functions/Excercises Applied | Link |
+| Project Title | Functions/Excercises Applied | Code/File |
 |:---|:---|:---|
 | Customer Segmentation Using Clustering and SVM | Clustering, SVM Classification, Data Preprocessing | [Link](link) |
 | Predicting Housing Prices Using Regression Analysis | Regression Modeling, EDA, Feature Engineering | [Link](link) |
