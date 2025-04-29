@@ -33,8 +33,8 @@ To know more about me, feel free to view my [LinkedIn](https://www.linkedin.com/
 ## Education
 
 **University Name**  
-Master of Science in Business Analytics, 2026
-Master of Science in Technology Project Management, 2023
+- Master of Science in Business Analytics, 2026
+- Master of Science in Technology Project Management, 2023
 
 ---
 
