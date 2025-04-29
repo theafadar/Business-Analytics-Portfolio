@@ -27,12 +27,12 @@ To know more about me, feel free to view my [LinkedIn](https://www.linkedin.com/
 
 ### Python Projects
 
-| Project Title | Skills Highlighted | Link |
+| Project Title | Functions/Excercises Applied | Link |
 |:---|:---|:---|
-| Customer Segmentation Using Clustering and SVM | Clustering, SVM Classification, Data Preprocessing | [Link to Project](link) |
-| Predicting Housing Prices Using Regression Analysis | Regression Modeling, EDA, Feature Engineering | [Link to Project](link) |
-| Sentiment Trend Analysis Over Time | Time Series Forecasting, Sentiment Analysis, NLP | [Link to Project](link) |
-| Classifying Fashion Items (Fashion MNIST) | Neural Networks, Deep Learning, Image Classification | [Link to Project](link) |
+| Customer Segmentation Using Clustering and SVM | Clustering, SVM Classification, Data Preprocessing | [Link](link) |
+| Predicting Housing Prices Using Regression Analysis | Regression Modeling, EDA, Feature Engineering | [Link](link) |
+| Sentiment Trend Analysis Over Time | Time Series Forecasting, Sentiment Analysis, NLP | [Link](link) |
+| Classifying Fashion Items (Fashion MNIST) | Neural Networks, Deep Learning, Image Classification | [Link](link) |
 
 ---
 
